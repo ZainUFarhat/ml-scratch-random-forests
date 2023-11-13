@@ -31,7 +31,7 @@ I tested the performance of my model on three datasets: \
 
 ### **Results**
 
-For each dataset I will list the number of trees, minimum samples split values, maximum depth, and test Accuracy score.
+For each dataset I will list the number of trees, minimum samples split values, maximum depth, and test accuracy score.
 In addition I offer some individual decision trees and random forests for visualization.
 
 **1.** Breast Cancer Dataset:
